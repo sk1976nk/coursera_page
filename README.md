@@ -11,11 +11,13 @@ Landing page of coursera
 ## Updates
 Replaced the previous draw.io landing page of coursera with the finalize version.
 
+---
+
 # Coursera Landing Page UI Design
 This project is a UI/UX design replica of the Coursera homepage.
 The design has been created using draw.io for learning and practice purposes.
 
---
+---
 
 ## Project Overview
 - **Platform:** Draw.io
