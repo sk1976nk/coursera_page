@@ -15,7 +15,6 @@ Replaced the previous draw.io landing page of coursera with the finalize version
 This project is a UI/UX design replica of the Coursera homepage.
 The design has been created using draw.io for learning and practice purposes.
 
----
 
 ##Project Overview
 
