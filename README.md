@@ -15,9 +15,9 @@ Replaced the previous draw.io landing page of coursera with the finalize version
 This project is a UI/UX design replica of the Coursera homepage.
 The design has been created using draw.io for learning and practice purposes.
 
+--
 
-##Project Overview
-
+## Project Overview
 - **Platform:** Draw.io
 - **Type:** UI/UX Webpage Design
 - **Inspire:** Coursera official website
@@ -25,14 +25,14 @@ The design has been created using draw.io for learning and practice purposes.
 
 ---
 
-##Tools Used
+## Tools Used
 - Draw.io(For UI Design)
 - GITHub (For version control and hosting)
 - YouTube & Online Resources (For learning)
 
 ---
 
-##Features of Design
+## Features of Design
 - Clean and modern UI layout
 - Header with navigation bar
 - Hero section with courses
@@ -41,13 +41,13 @@ The design has been created using draw.io for learning and practice purposes.
 
 ---
 
-##Design Preview
+## Design Preview
 > The complete UI design is available in the repository as a draw.io file.
 
 
 ---
 
-##Disclaimer
+## Disclaimer
 
 This project is created **only for educational and practice purposes**.
 All brand names, logos, and content belong to **Coursera** and used here for learning inspiration only.
